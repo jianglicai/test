@@ -1,0 +1,13 @@
+server:
+  port: 8081
+aws:
+  waf:
+    region: ap-southeast-1
+    ipSetId: 2076f855-2116-46e3-a7b8-1a09f5ee86e3
+    ipSetName: test
+mpw:
+  key: 2
+
+telegram:
+  bot:
+    token: 8148575408:AAGDms8LOyn_VFxExueSfM-cbfyC5a0uakw

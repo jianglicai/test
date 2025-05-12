@@ -1,0 +1,5 @@
+2025-03-14 16:33:05 [main] INFO  com.example.test.TestApplicationTests - Starting TestApplicationTests using Java 1.8.0_441 on jiangjiang with PID 18636 (started by 12154 in D:\project_my\test)
+2025-03-14 16:33:05 [main] INFO  com.example.test.TestApplicationTests - The following profiles are active: dev
+2025-03-14 16:33:06 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-14 16:33:06 [main] INFO  com.example.test.TestApplicationTests - Started TestApplicationTests in 1.465 seconds (JVM running for 2.173)
+2025-03-14 16:33:06 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
