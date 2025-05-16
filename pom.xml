@@ -96,6 +96,15 @@
                     <includeSystemScope>true</includeSystemScope>
                 </configuration>
             </plugin>
+            <!--使用高版本的jenkins，要指定项目打包用的jdk-->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>${java.version}</source>
+                    <target>${java.version}</target>
+                </configuration>
+            </plugin>
         </plugins>
     </build>
 
